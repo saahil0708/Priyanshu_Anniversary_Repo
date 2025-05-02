@@ -1,0 +1,10 @@
+/* Smooth scrolling behavior */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Optimize image rendering */
+  img {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
